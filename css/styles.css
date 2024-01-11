@@ -107,6 +107,10 @@ img {
     position: relative;
 }
 
+.color-ocean {
+    color: #404bbf;
+}
+
 .nav-list-item-link:hover,
 .nav-list-item-link:focus {
     color:#404bbf;
