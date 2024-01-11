@@ -107,12 +107,6 @@ img {
     position: relative;
 }
 
-.nav-list-item:nth-child(:first-child) {
-    color: #404bbf;
-}
-
-
-
 .nav-list-item-link:hover,
 .nav-list-item-link:focus {
     color:#404bbf;
