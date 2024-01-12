@@ -427,10 +427,15 @@ img {
     padding: 100px 0;
 }
 
-.footer-general-wrapper {
+.page-footer .container {
     display: flex;
     align-items: baseline;
 }
+
+/* .footer-general-wrapper {
+    display: flex;
+    align-items: baseline;
+} */
 
 .footer-logo-secondary-color {
     color:#F4F4FD
